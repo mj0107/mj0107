@@ -1,27 +1,79 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:863c9a,100:2b1cfd&height=180&text=&animation=twinkling&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://jun-coding.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jun-coding.tistory.com/"> </a>
-         <a href=mailto:alswns1285@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alswns1285@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=mj0107&custom_title=mj0107's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mj0107&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
-    
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:7B68EE&height=200&text=Minjun%20Kim&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlign=70&fontAlignY=40" />
+</div>
+
+<div align="center">
+  <p>
+    <em>사용자의 경험을 최우선으로 생각하는 프론트엔드 개발자</em><br>
+  </p>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Core**
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+</div>
+
+### **Frameworks & Libraries**
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=Zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+</div>
+
+### **Development Tools**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=Mock Service Worker&logoColor=white">
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=React Hook Form&logoColor=white">
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Blog](https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://jun-coding.tistory.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alswns1285@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mj0107)
+
+_📝 기술 블로그에서 개발 여정과 학습 내용을 공유하고 있습니다!_
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj0107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=7B68EE&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mj0107&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A90E2&ring=7B68EE&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"좋은 코드는 이야기를 들려준다"*
+*사용자와 개발자 모두가 이해하기 쉬운 코드를 작성하고자 합니다*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mj0107&color=4A90E2&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:7B68EE&height=120&section=footer" />
+</div>
