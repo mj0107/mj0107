@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-FF6B6B?style=for-the-badge&logo=Zustand&logoColor=white">
-  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 </div>
 
 ### **Development Tools**
