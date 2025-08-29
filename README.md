@@ -58,9 +58,6 @@ _📝 기술 블로그에서 개발 여정과 학습 내용을 공유하고 있�
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj0107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=7B68EE&text_color=C9D1D9)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mj0107&theme=dark&locale=ko" alt="GitHub Streak" /></a>
-
 </div>
 
 ---
