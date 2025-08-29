@@ -35,8 +35,8 @@
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=Mock Service Worker&logoColor=white">
-  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=React Hook Form&logoColor=white">
+  <img src="https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge&logo=MockServiceWorker&logoColor=white">
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white">
 </div>
 
 ## 🌐 Connect With Me
